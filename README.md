@@ -14,3 +14,16 @@
  * Tirupati 
 
  [My Media] ( https://github.com/vinil2405/from-kappa-chandrababu/blob/main/MyMedia.md)
+
+
+ -------
+ 
+ #  Songs Recommendation 
+ In this section I would like to present my Song recommendation where these songs are world recognized ones. The three songs are different ones and it  gives me immense pleasure for recommending. Let's get started with my recommendation.
+ | Song Name| Reason | Singer |
+ | -------------- | ------------- |--------|
+ | Imagine | This an life relaistic song where it makes everyone to think what if we don't exists where the lyricist and singer are done by Jhon Lenon who is an famous revolution person in 1960. | Jhon Lenon|
+ | Working Class Hero | This is an song where a  human life span is explained within three minutes duration with intense knowledge and wise. | Jhon Lenon|
+ | SubrabathaSeva | This an devotional song which prayed to Lord Venkateshwara | M.S.Subhalashmi|
+ 
+ 
