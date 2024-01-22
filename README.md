@@ -26,4 +26,10 @@
  | Working Class Hero | This is an song where a  human life span is explained within three minutes duration with intense knowledge and wise. | Jhon Lenon|
  | SubrabathaSeva | This an devotional song which prayed to Lord Venkateshwara | M.S.Subhalashmi|
  | Om Nama Shivaya  | This a devotional song where it will make everyone to get the divine blessings of lord Shiva | Keishna Das|
- 
+ ---------
+# Favorite Quotes
+
+> *"Change will not come if u wait for someother persons or someother times. you are the ones you have been waiting for you the changes that you seek."*
+> \- *BarackObama*
+> *"Aim for the moon if you miss you will hit a star"*
+> \- *William Peter*
