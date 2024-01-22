@@ -31,8 +31,10 @@
 
 > *"Change will not come if u wait for someother persons or someother times. you are the ones you have been waiting for you the changes that you seek."*
 > \- *BarackObama*
+
 > *"Aim for the moon if you miss you will hit a star"*
 > \- *William Peter*
+<<<<<<< HEAD
 ----------
 
 # Code Fencing 
@@ -41,3 +43,5 @@
  ```const getCmdArguments = () => process.argv.slice(2);```
  
  <https://code.pieces.app/collections/node-js>
+=======
+>>>>>>> 9bc8025e1b25cf53876b100adfd664a71fb839ac
