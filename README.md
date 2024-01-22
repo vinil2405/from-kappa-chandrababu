@@ -33,3 +33,11 @@
 > \- *BarackObama*
 > *"Aim for the moon if you miss you will hit a star"*
 > \- *William Peter*
+----------
+
+# Code Fencing 
+
+ Basic Node.js code is used to grab specified command-line arguments
+ ```const getCmdArguments = () => process.argv.slice(2);```
+ 
+ <https://code.pieces.app/collections/node-js>
