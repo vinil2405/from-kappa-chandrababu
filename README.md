@@ -34,7 +34,6 @@
 
 > *"Aim for the moon if you miss you will hit a star"*
 > \- *William Peter*
-<<<<<<< HEAD
 ----------
 
 # Code Fencing 
@@ -42,6 +41,5 @@
  Basic Node.js code is used to grab specified command-line arguments
  ```const getCmdArguments = () => process.argv.slice(2);```
  
+ 
  <https://code.pieces.app/collections/node-js>
-=======
->>>>>>> 9bc8025e1b25cf53876b100adfd664a71fb839ac
