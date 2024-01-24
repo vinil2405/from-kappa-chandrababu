@@ -40,8 +40,8 @@
 
 # Code Fencing 
 
- Basic Node.js code is used to grab specified command-line arguments
- ```const getCmdArguments = () => process.argv.slice(2);```
+``` Basic Node.js code is used to grab specified command-line arguments
+ const getCmdArguments = () => process.argv.slice(2);```
  
  
  <https://code.pieces.app/collections/node-js>
