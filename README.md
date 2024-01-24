@@ -40,10 +40,10 @@
 
 # Code Fencing 
 
-``` Tags: node.js, javascript, assert
+ Tags: node.js, javascript, assert
 
 The Assert Node.js example below uses the assert module to provide a set of assertion functions for verifying invariants.
-
+```
 const assert = require('assert');
 
 assert(5 > 7); 
