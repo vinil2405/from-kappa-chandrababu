@@ -40,8 +40,17 @@
 
 # Code Fencing 
 
-``` Basic Node.js code is used to grab specified command-line arguments
- const getCmdArguments = () => process.argv.slice(2); 
+``` Tags: node.js, javascript, assert
+
+The Assert Node.js example below uses the assert module to provide a set of assertion functions for verifying invariants.
+
+const assert = require('assert');
+
+assert(5 > 7); 
+Related links:
+
+Assert function in node.js
+Node.js assert function
 ```
 
  
